@@ -771,7 +771,7 @@ def montar_12_meses(df):
 # INTERFACE
 # ============================================================
 
-st.title("☀️ Extrator de Consumo de Energia - Faturas")
+st.title("☀️ Extrator de Consumo de Energia - Faturas CEEE")
 
 st.markdown(
     """
